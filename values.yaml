@@ -1,0 +1,19 @@
+targetGroups:
+  - name: NAME-1
+    namespace: NAMESPACE NAME-1
+    serviceRef:
+      name: SERVICE NAME-1
+      port: PORT-1
+    targetGroupARN: "ARN OF THE TARGET GROUP 1"
+  - name: NAME-2
+    namespace: NAMESPACE NAME-2
+    serviceRef:
+      name: SERVICE NAME-2
+      port: PORT-2
+    targetGroupARN: "ARN OF THE TARGET GROUP 2"
+  - name: NAME-3
+    namespace: NAMESPACE NAME-3
+    serviceRef:
+      name: SERVICE NAME-3
+      port: PORT-3
+    targetGroupARN: "ARN OF THE TARGET GROUP 3"
