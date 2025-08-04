@@ -1,0 +1,6 @@
+apiVersion: v2
+name: targetGroupBinding
+description: A Helm chart for Kubernetes to create target groups bindings
+type: application
+version: 0.1.0
+appVersion: "v1.0.1"
